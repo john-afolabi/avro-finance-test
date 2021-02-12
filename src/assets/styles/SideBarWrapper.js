@@ -12,7 +12,9 @@ const SideBarWrapper = styled.div`
 			margin-left: 1rem;
 		}
 	}
-
+	.nav-item {
+		margin: 0.2rem 0;
+	}
 	.nav-item:first-of-type {
 		margin-top: 5rem;
 	}

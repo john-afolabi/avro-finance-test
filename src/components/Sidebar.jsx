@@ -12,7 +12,7 @@ const SideBar = () => {
 			<div className="sticky-top h-100">
 				<ul class="nav flex-column h-100">
 					<li className="nav-item active">
-						<a className="nav-link" href="#">
+						<a className="nav-link" href="/">
 							<span>
 								<Dashboard />
 							</span>
@@ -20,7 +20,7 @@ const SideBar = () => {
 						</a>
 					</li>
 					<li className="nav-item">
-						<a className="nav-link" href="#">
+						<a className="nav-link" href="/">
 							<span>
 								<Companies />
 							</span>
@@ -28,7 +28,7 @@ const SideBar = () => {
 						</a>
 					</li>
 					<li className="nav-item">
-						<a className="nav-link" href="#">
+						<a className="nav-link" href="/">
 							<span>
 								<Projects />
 							</span>
@@ -36,7 +36,7 @@ const SideBar = () => {
 						</a>
 					</li>
 					<li className="nav-item">
-						<a className="nav-link" href="#">
+						<a className="nav-link" href="/">
 							<span>
 								<Messages />
 							</span>
@@ -45,7 +45,7 @@ const SideBar = () => {
 					</li>
 
 					<li className="nav-item mt-auto">
-						<a className="nav-link" href="#">
+						<a className="nav-link" href="/">
 							<span>
 								<Settings />
 							</span>
