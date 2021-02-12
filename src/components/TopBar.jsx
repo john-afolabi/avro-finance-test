@@ -6,8 +6,8 @@ import TopBarWrapper from "../assets/styles/TopBarWrapper";
 
 const TopBar = () => {
 	return (
-		<TopBarWrapper className="navbar navbar-expand-lg navbar-light py-3 px-3">
-			<form className="form-inline col-6 col-xl-4 mr-auto">
+		<TopBarWrapper className="navbar navbar-expand-lg navbar-light py-3 px-0">
+			<form className="form-inline col-6 col-xl-4 mr-auto px-0">
 				<span>
 					<img src={Search} alt="search" />
 				</span>

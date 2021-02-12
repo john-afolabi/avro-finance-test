@@ -6,9 +6,9 @@ import { ReactComponent as Messages } from "../assets/images/svg/messages.svg";
 import { ReactComponent as Settings } from "../assets/images/svg/settings.svg";
 import SideBarWrapper from "../assets/styles/SideBarWrapper";
 
-const Sidebar = () => {
+const SideBar = () => {
 	return (
-		<SideBarWrapper className="col-2" id="sticky-sidebar">
+		<SideBarWrapper>
 			<div className="sticky-top h-100">
 				<ul class="nav flex-column h-100">
 					<li className="nav-item active">
@@ -58,4 +58,4 @@ const Sidebar = () => {
 	);
 };
 
-export default Sidebar;
+export default SideBar;

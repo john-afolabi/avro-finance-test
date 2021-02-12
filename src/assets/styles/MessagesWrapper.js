@@ -5,6 +5,7 @@ const MessagesWrapper = styled.div`
 	padding: 2em;
 	border: 1px solid #e3eded;
 	border-radius: 2px;
+	min-width: 370px;
 	h4 {
 		color: #2979f2;
 		font-size: 20px;

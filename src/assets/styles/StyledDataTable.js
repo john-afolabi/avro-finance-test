@@ -63,6 +63,7 @@ const StyledDataTable = styled.div`
 
 	.rdt_TableRow {
 		color: #110b56;
+		height: 3.3rem;
 		&:hover {
 			background-color: #eaeffd;
 		}
